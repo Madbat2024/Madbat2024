@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tarik! Cybersecurity enthusiast 
+<h1>Hi, I'm Tarik! Cybersecurity professional
 
 <h2>👨‍💻 My Projects:</h2>
 
